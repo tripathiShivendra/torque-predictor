@@ -16,8 +16,9 @@ This application predicts the torque of DC and Induction motors using Artificial
 
 - `projectapp.mlapp` – Main App Designer GUI
 - `InductionMotorTorqueNet.mat` – Pre-trained ANN model for Induction Motor
-- `DCMotorTorquNet.m` – DC Motor torque calculation code (optional)
+- `DCMotorTorquNet.mat` – DC Motor torque calculation code (optional)
 - `README.md` – Instructions to run and troubleshoot the app
+- The .m files are the trained models 
 
 ---
 
